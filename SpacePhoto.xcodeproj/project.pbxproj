@@ -15,6 +15,7 @@
 		FDAF097929895ADA00FA5A4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDAF097729895ADA00FA5A4D /* LaunchScreen.storyboard */; };
 		FDAF098129895CC600FA5A4D /* PhotoInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDAF098029895CC600FA5A4D /* PhotoInfo.swift */; };
 		FDAF098329895D2800FA5A4D /* URLExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDAF098229895D2800FA5A4D /* URLExtension.swift */; };
+		FDAF098529895E3E00FA5A4D /* NetworkController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDAF098429895E3E00FA5A4D /* NetworkController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		FDAF097A29895ADA00FA5A4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FDAF098029895CC600FA5A4D /* PhotoInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoInfo.swift; sourceTree = "<group>"; };
 		FDAF098229895D2800FA5A4D /* URLExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLExtension.swift; sourceTree = "<group>"; };
+		FDAF098429895E3E00FA5A4D /* NetworkController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				FDAF096C29895AD800FA5A4D /* AppDelegate.swift */,
 				FDAF098229895D2800FA5A4D /* URLExtension.swift */,
+				FDAF098429895E3E00FA5A4D /* NetworkController.swift */,
 				FDAF096E29895AD800FA5A4D /* SceneDelegate.swift */,
 				FDAF097029895AD800FA5A4D /* ViewController.swift */,
 				FDAF098029895CC600FA5A4D /* PhotoInfo.swift */,
@@ -146,6 +149,7 @@
 			files = (
 				FDAF098329895D2800FA5A4D /* URLExtension.swift in Sources */,
 				FDAF098129895CC600FA5A4D /* PhotoInfo.swift in Sources */,
+				FDAF098529895E3E00FA5A4D /* NetworkController.swift in Sources */,
 				FDAF097129895AD800FA5A4D /* ViewController.swift in Sources */,
 				FDAF096D29895AD800FA5A4D /* AppDelegate.swift in Sources */,
 				FDAF096F29895AD800FA5A4D /* SceneDelegate.swift in Sources */,
